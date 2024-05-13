@@ -87,7 +87,7 @@ Including an example of how to use your role (for instance, with variables passe
               - name: "EDA Demo Project"
                 git_url: "https://github.com/kubealex/event-driven-automation"
                 description: "Demo project to show EDA in action"
-            eda_decision_env:
+            eda_decision_envs:
               - name: "kubealex-eda"
                 image_url: "quay.io/kubealex/eda-decision-env"
             eda_activations:
